@@ -12,7 +12,7 @@
     "build": "react-scripts build",  // Build the app for production
     "test": "react-scripts test",    // Run tests
     "eject": "react-scripts eject",  // Eject configuration
-    "lint": "eslint . --fix"        // Lint the code with auto-fix option
+    "lint": "eslint . --fix"        // Lint the code with auto-fixable option
   },
   "eslintConfig": {
     "extends": [
